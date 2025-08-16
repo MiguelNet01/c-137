@@ -24,3 +24,6 @@ Layout Dinâmico: Os cartões dos personagens são criados e inseridos no HTML d
 Design Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
 
 Informações Detalhadas: Cada cartão de personagem exibe informações essenciais como nome, espécie e imagem.
+
+## 📷 Demonstração
+👉 [Acesse o site aqui](https://universo-c-137.netlify.app)  
