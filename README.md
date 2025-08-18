@@ -1,7 +1,7 @@
 ## 🛸 Rick and Morty: Guia de Personagens
 Este projeto é uma galeria interativa de personagens do universo de Rick and Morty, desenvolvida para praticar e aprofundar o uso de JavaScript na manipulação do DOM e na integração com uma API externa. A página permite aos usuários visualizar uma lista de personagens com suas informações básicas.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 HTML5: Utilizado para a estrutura da página.
 
 CSS3: Responsável pela estilização e pelo design visual.
@@ -25,5 +25,5 @@ Design Responsivo: A interface se adapta a diferentes tamanhos de tela, garantin
 
 Informações Detalhadas: Cada cartão de personagem exibe informações essenciais como nome, espécie e imagem.
 
-## 📷 Demonstração
+## Demonstração
 👉 [Acesse o site aqui](https://universo-c-137.netlify.app)  
